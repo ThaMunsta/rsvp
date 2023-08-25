@@ -5,6 +5,9 @@ Very simple web page for sending invitations and collecting RSVPs. No logins req
 Ideal for events where people don't use social media platorms.
 
 [EZPZ RSVP Demo](https://nervesocket.com/rsvp/)
+[Public RSVP View Demo](https://nervesocket.com/rsvp/index.php?public=X4FIH4KPYUB33AX9PDETST0SV7QDZQSFP4PZMYKF6SQYJLWMH6)
+[Guest View Demo](https://nervesocket.com/rsvp/index.php?public=CSXL6KM1CVDRBRBF8577QMJHEYVPKCF7W425CYJA3OP7ELU6KU)
+[VIP Guest View Demo](https://nervesocket.com/rsvp/index.php?invite=64K1B9BZ27Z3L4178UM2GL7BPET7X8G0S0XQUL2FPAHRECKUZS)
 
 # Features
 - No passwords or sign ups - just bookmark your event URL!
